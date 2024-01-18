@@ -1,3 +1,3 @@
 # Pokemon-Themed-Typing-Game
-This Login / Register page is created through HTML,CSS Only.<br>
-It is just the frontend part of a Login/Register Page.
+
+This is a popular anime/cartoon Pokemon Themed typing App.<br>
